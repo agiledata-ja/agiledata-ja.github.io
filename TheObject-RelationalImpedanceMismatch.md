@@ -1,3 +1,7 @@
+---
+title: オブジェクト―リレーショナル・インピーダンスミスマッチ
+---
+
 > 原文：http://www.agiledata.org/essays/impedanceMismatch.html
 
 本記事は、[Agile Database Techniques](http://www.ambysoft.com/agileDatabaseTechniques.html) Chapter 7から抜粋。
