@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ビジョン
+title: アジャイルデータ手法のビジョン
 ---
 
 > 原文：<http://www.agiledata.org/essays/vision.html>
