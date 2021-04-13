@@ -1,5 +1,7 @@
 ---
 layout: page
+title: agiledata-ja
+permalink: /
 ---
 
 # 概略

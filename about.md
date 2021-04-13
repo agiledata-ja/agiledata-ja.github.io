@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 ここは Scott W. Ambler 氏による [www.agiledata.org](http://www.agiledata.org/) の翻訳ページです。2004年9月に Scott W. Ambler 氏本人より許可を得ています。

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: オブジェクト―リレーショナル・インピーダンスミスマッチ
-permalink: /TheObject-RelationalImpedanceMismatch/
 ---
 
 > 原文：<http://www.agiledata.org/essays/impedanceMismatch.html>
