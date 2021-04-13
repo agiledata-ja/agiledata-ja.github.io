@@ -1,8 +1,10 @@
 ---
+layout: page
 title: オブジェクト―リレーショナル・インピーダンスミスマッチ
+permalink: /TheObject-RelationalImpedanceMismatch/
 ---
 
-> 原文：http://www.agiledata.org/essays/impedanceMismatch.html
+> 原文：<http://www.agiledata.org/essays/impedanceMismatch.html>
 
 本記事は、[Agile Database Techniques](http://www.ambysoft.com/agileDatabaseTechniques.html) Chapter 7から抜粋。
 
@@ -88,7 +90,9 @@ title: オブジェクト―リレーショナル・インピーダンスミス�
 しかし、オブジェクトを保存するためにリレーショナルデータベースを使用する場合、各々のオブジェクトは自身と関連するリレーションシップをデータベースに書き出すため、自ら情報を管理しなければならない。
 この情報は、私が「シャドウ・インフォメーション」（shadow information）と呼んでいるものである。
 この情報は、属性に「実装」の可視性を付けて（シンボルは記載されてない）、図3につけ加えられている。
-たとえば、AddressクラスはAddressテーブル内のAddressIDに対応するAddressID属性を含む。（{{code(Custemer)}}、{{code(State)}}、{{code(ZipCode)}}クラスへのリレーションシップを管理するために必要な{{code(customers)}}、{{code(state)}}、{{code(zipCode)}}属性についても同様に）
+たとえば、AddressクラスはAddressテーブル内のAddressIDに対応するAddressID属性を含む。
+``Custemer``、``State``、``ZipCode``クラスへのリレーションシップを管理するために必要な
+``customers``、``state``、``zipCode``属性についても同様に）
 
   - 図3: 完全に属性を記述したUMLクラス・モデル**
 ![](http://www.agiledata.org/images/impedanceMismatchFullyAttributed.gif)
