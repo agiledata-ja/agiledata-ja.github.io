@@ -14,7 +14,7 @@ permalink: /
 - DataModeling101
   - Agile Data Modeling: FromDomainModelingtoPhysicalModeling
   - AnUnofficialUMLProfileforDataModeling
-  - WhyDataModelsDontDriveObjectModels (And Vice Versa)
+  - [データモデルがオブジェクトモデルを駆動しない理由（逆もしかり）](WhyDataModelsDontDriveObjectModels (And Vice Versa))
 - [オブジェクト指向基礎](ObjectOrientation101)
   - TheDiagramsofUML2.0 (posted at www.agilemodeling.com) 
 - [オブジェクト―リレーショナル・インピーダンスミスマッチ](TheObject-RelationalImpedanceMismatch)
